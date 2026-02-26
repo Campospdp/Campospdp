@@ -33,8 +33,3 @@ Olá, meu nome é Pedro, tenho 18 anos e estou em busca de novas experiências n
 **Sistemas Operacionais:**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=campospdp&title_color=00bfff&icon_color=00bfff&text_color=cfcfcf&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=campospdp&layout=compact&theme=tokyonight)
